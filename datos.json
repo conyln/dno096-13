@@ -1,7 +1,7 @@
 [
     {
         "nombre": "OPERATION DOOMSDAY",
-        "descripcion": "Álbum debut de MF DOOM, donde revela su persona como villano, con rimas crudas y beats originales en una atmósfera introspectiva y única. <br> Productor: MF DOOM <br> Arte / Diseño: MF DOOM <br> Fecha de lanzamiento: 19 de octubre de 1999",
+        "descripcion": "Álbum debut de MF DOOM, donde revela su persona como villano, con rimas crudas, beats originales y samples de Fantastic Four y Wildstyle, en una atmósfera introspectiva de su caos emocional. <br> Productor: MF DOOM <br> Arte / Diseño: MF DOOM",
         "fecha": "1999",
         "artista": "mf_doom",
         "foto": "1.jpg",
@@ -14,7 +14,7 @@
     },
     {
         "nombre": "VAUDEVILLE VILLAIN",
-        "descripcion": "Primer álbum de su alter ego VIKTOR VAUGHN, presenta una narrativa urbana con un estilo oscuro y letras rápidas y mordaces. <br> Productores: KING HONEY, HEAT SENSOR, MAX BILL, RJD2, MR. TEN. <br> Arte / Diseño: RALPH BORLAND. <br> Fecha de lanzamiento: 16 de septiembre de 2003.",
+        "descripcion": "Primer álbum de su alter ego VIKTOR VAUGHN, presenta una narrativa urbana con un estilo oscuro y letras rápidas y mordaces. <br> Productores: KING HONEY, HEAT SENSOR, MAX BILL, RJD2, MR. TEN <br> Arte / Diseño: RALPH BORLAND",
         "fecha": "2003",
         "artista": "viktor_vaughn",
         "foto": "2.jpg",
@@ -27,7 +27,7 @@
     },
     {
         "nombre": "MADVILLAINY",
-        "descripcion": "Primer álbum del supergrupo MADVILLAIN (MADLIB + MF DOOM), considerado un clásico del hip-hop underground, con beats excepcionales y rimas enigmáticas. <br> Productores: MF DOOM, MADLIB. <br> Arte / Diseño: ERIC COLEMAN (Fotografía). <br> Fecha de lanzamiento: 23 de marzo de 2004.",
+        "descripcion": "Primer álbum del supergrupo MADVILLAIN (MADLIB + MF DOOM), considerado un clásico del hip-hop underground, con beats excepcionales y rimas enigmáticas. <br> Productores: MF DOOM, MADLIB <br> Arte / Diseño: ERIC COLEMAN (Fotografía)",
         "fecha": "2004",
         "artista": "madvillain",
         "foto": "3.jpg",
@@ -40,7 +40,7 @@
     },
     {
         "nombre": "VV:2 VENOMOUS VILLAIN",
-        "descripcion": "Segundo álbum de su alter ego VIKTOR VAUGHN, donde adopta un enfoque más agresivo y experimental. <br> Productores: SYSTEM D-128, DIPLO, DIVINCI, SWAMBUGER, SESSION 31, DJ I.N.C., DUB-L, THE ANALEARS. <br> Arte / Diseño: SANFORD GREENE (Ilustración), GEZ FRY (Color). <br> Fecha de lanzamiento: 3 de agosto de 2004.",
+        "descripcion": "Segundo álbum de su alter ego VIKTOR VAUGHN, donde adopta un enfoque más agresivo y experimental. <br> Productores: SYSTEM D-128, DIPLO, DIVINCI, SWAMBUGER, SESSION 31, DJ I.N.C., DUB-L, THE ANALEARS <br> Arte / Diseño: SANFORD GREENE (Ilustración), GEZ FRY (Color)",
         "fecha": "2004",
         "artista": "viktor_vaughn",
         "foto": "4.jpg",
@@ -53,7 +53,7 @@
     },
     {
         "nombre": "MM...FOOD",
-        "descripcion": "Álbum de MF DOOM, temático con referencias culinarias, lleno de ingenio y humor en cada track. <br> Productor: MF DOOM. <br> Arte / Diseño: JASON JAGEL (Arte), JEFF JANK (Diseño). <br> Fecha de lanzamiento: 16 de noviembre de 2004.",
+        "descripcion": "Álbum de MF DOOM, temático con referencias culinarias, lleno de ingenio y humor en cada track. <br> Productor: MF DOOM <br> Arte / Diseño: JASON JAGEL (Arte), JEFF JANK (Diseño)",
         "fecha": "2004",
         "artista": "mf_doom",
         "foto": "5.jpg",
@@ -66,7 +66,7 @@
     },
     {
         "nombre": "THE MOUSE AND THE MASK",
-        "descripcion": "Álbum del supergrupo DANGERDOOM (DANGER MOUSE + MF DOOM), inspirado en caricaturas de Adult Swim, con numerosas referencias culturales. <br> Productor: DANGER MOUSE. <br> Arte / Diseño: LEX. <br> Fecha de lanzamiento: 10 de octubre de 2005.",
+        "descripcion": "Álbum del supergrupo DANGERDOOM (DANGER MOUSE + MF DOOM), inspirado en caricaturas de Adult Swim, con numerosas referencias culturales. <br> Productor: DANGER MOUSE <br> Arte / Diseño: LEX",
         "fecha": "2005",
         "artista": "dangerdoom",
         "foto": "6.jpg",
@@ -79,7 +79,7 @@
     },
     {
         "nombre": "MADVILLAINY 2",
-        "descripcion": "Segundo álbum del supergrupo MADVILLAIN (MADLIB + MF DOOM), que revisita el original con una visión alternativa de remixes en su estilo característico. <br> Productores: MADLIB, MF DOOM. <br> Arte / Diseño: ERIC COLEMAN (Fotografía), JEFF JANK (Diseño), JAMES REITANO (Ilustración). <br> Fecha de lanzamiento: 15 de septiembre de 2008.",
+        "descripcion": "Segundo álbum del supergrupo MADVILLAIN (MADLIB + MF DOOM), que revisita el original con una visión alternativa de remixes en su estilo característico. <br> Productores: MADLIB, MF DOOM <br> Arte / Diseño: ERIC COLEMAN (Fotografía), JEFF JANK (Diseño), JAMES REITANO (Ilustración)",
         "fecha": "2008",
         "artista": "madvillain",
         "foto": "7.jpg",
@@ -92,7 +92,7 @@
     },
     {
         "nombre": "BORN LIKE THIS",
-        "descripcion": "Álbum bajo su nuevo alias, DOOM. Proyecto más sombrío y complejo, con temas profundos y producción que explora varias facetas del villano lírico. <br> Productores: MF DOOM, J DILLA, MR. CHOP, JAKE ONE, MADLIB. <br> Arte / Diseño: VASIM BHATTI de EHQUESTIONMARK. <br> Fecha de lanzamiento: 24 de marzo de 2009.",
+        "descripcion": "Álbum bajo su nuevo alias, DOOM. Proyecto más sombrío y complejo, con temas profundos y producción que explora varias facetas del villano lírico. <br> Productores: MF DOOM, J DILLA, MR. CHOP, JAKE ONE, MADLIB <br> Arte / Diseño: VASIM BHATTI de EHQUESTIONMARK",
         "fecha": "2009",
         "artista": "doom",
         "foto": "8.jpg",
@@ -105,7 +105,7 @@
     },
     {
         "nombre": "KEY TO THE KUFFS",
-        "descripcion": "Álbum del supergrupo JJDOOM (JNEIRO JAREL + DOOM), mezcla ritmos electrónicos y samples con rimas abstractas. <br> Productor: JNEIRO JAREL. <br> Arte / Diseño: STEVE POWERS. <br> Fecha de lanzamiento: 20 de agosto de 2012.",
+        "descripcion": "Álbum del supergrupo JJDOOM (JNEIRO JAREL + DOOM), mezcla ritmos electrónicos y samples con rimas abstractas. <br> Productor: JNEIRO JAREL <br> Arte / Diseño: STEVE POWERS",
         "fecha": "2012",
         "artista": "jjdoom",
         "foto": "9.jpg",
@@ -118,7 +118,7 @@
     },
     {
         "nombre": "BOOKHEAD",
-        "descripcion": "EP del supergrupo JJDOOM (JNEIRO JAREL + DOOM), un trabajo con sonidos futuristas y un estilo experimental. <br> Productor: JNEIRO JAREL. <br> Arte / Diseño: ESPO, STEVE POWERS, JAKE RICH. <br> Fecha de lanzamiento: 15 de enero de 2013.",
+        "descripcion": "EP del supergrupo JJDOOM (JNEIRO JAREL + DOOM), un trabajo con sonidos futuristas y un estilo experimental. <br> Productor: JNEIRO JAREL <br> Arte / Diseño: ESPO, STEVE POWERS, JAKE RICH",
         "fecha": "2013",
         "artista": "jjdoom",
         "foto": "10.jpg",
@@ -131,7 +131,7 @@
     },
     {
         "nombre": "CZARFACE MEETS METALFACE",
-        "descripcion": "Primer álbum de la colaboración entre CZARFACE y DOOM, con una narrativa inspirada en cómics y rimas ingeniosas en un universo de superhéroes. Este fue el último lanzamiento de DOOM antes de su muerte en 2020. <br> Productores: CZARFACE, MF DOOM. <br> Arte / Diseño: LAMOUR SUPREME. <br> Fecha de lanzamiento: 30 de marzo de 2018.",
+        "descripcion": "Primer álbum de la colaboración entre CZARFACE y DOOM, con una narrativa inspirada en cómics y rimas ingeniosas en un universo de superhéroes. Este fue el último lanzamiento de DOOM antes de su muerte en 2020. <br> Productores: CZARFACE, MF DOOM <br> Arte / Diseño: LAMOUR SUPREME",
         "fecha": "2018",
         "artista": "czarface_mf_doom",
         "foto": "11.jpg",
@@ -144,7 +144,7 @@
     },
     {
         "nombre": "SUPER WHAT?",
-        "descripcion": "Continuación de la colaboración entre CZARFACE y MF DOOM, manteniendo su estilo distintivo con una producción dinámica y letras ingeniosas. <br> Productores: CZARFACE. <br> Arte / Diseño: No especificado. <br> Fecha de lanzamiento: 7 de mayo de 2021.",
+        "descripcion": "Continuación de la colaboración entre CZARFACE y MF DOOM, manteniendo su estilo distintivo con una producción dinámica. <br> Productores: CZARFACE <br> Arte / Diseño: LAMOUR SUPREME",
         "fecha": "2021",
         "artista": "czarface_mf_doom",
         "foto": "12.jpg",
