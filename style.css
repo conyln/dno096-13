@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Space+Grotesk:wght@300..700&display=swap");
+
+:root {
+    --bs-success-rgb: 92, 92, 92;
+    --bs-font-sans-serif: "Space Grotesk", sans-serif;
+    --bs-body-font-family: var(--bs-font-sans-serif);
+}
+
+
+/* Card*/
+.card-body {  
+    background-color: rgba(var(--bs-success-rgb), 0.6); /* Color inicial */  
+    transition: background-color 0.2s ease;  
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
+    display: flex;  
+    flex-direction: column;  
+    justify-content: space-between; /* Espacio */
+
+} 
+.card-wrapper {  
+    display: flex;  
+    flex-direction: column;  
+}
+.card {  
+    flex: 1 1 auto; /* Tamano */  
+    display: flex;  
+    flex-direction: column;  
+    max-width: 100%; /* No overflow */  
+    min-width: 0;
+}  
+
+/* Card hover*/
+.card-img-top.grayscale {  
+    filter: grayscale(100%);  
+    transition: filter 0.3s ease;  
+}  
+.grayscale-card {  
+    filter: grayscale(100%);  
+    transition: filter 0.3s ease;  
+} 
+.card-wrapper:hover .card-img-top.grayscale,  
+.card-wrapper:hover .grayscale-card {  
+    filter: grayscale(0%);  
+}  
+.card-wrapper:hover .card-body {  
+    background-color: rgba(2255, 71, 26); /* Color secundario Hover */  
+}  
+
+/* Carousel y margen para reproductor */
+.carousel-inner{ 
+    border-radius: 5px;
+}
+.carousel { 
+    margin-bottom: 10px;
+}
+
+/*breadcrub*/
+.breadcrumb li a {
+    color: white;
+}
